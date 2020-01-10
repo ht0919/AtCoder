@@ -9,7 +9,7 @@
 ## 操作手順
 
 - ビルド：g++ file.cpp
-- 実行(Windows)：file.exe < test[1|2|3|4].txt
+- 実行(Windows)：a.exe < test[1|2|3|4].txt
 - 実行(macOS/Linux)：./a.out < test[1|2|3|4].txt
 
 
@@ -79,6 +79,7 @@
 - ABC147 x 3本
 - ABC148 x 5本
 - ABC149 x 4本
+- ABC150 x 3本
 
 
 ## AtCoder Grand Contest
@@ -103,5 +104,4 @@
 - みんなのプロコン 2019 (MP2019 x 3本)
 - サンプルプログラム (Sample x 3本)
 - Tenka1 Programmer Beginner Contest 2019 (TPBC1 x 3本)
-
 
