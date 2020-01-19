@@ -81,6 +81,7 @@
 - ABC149 x 4本
 - ABC150 x 3本
 - ABC151 x 2本
+- ABC152 x 4本
 
 
 ## AtCoder Grand Contest
