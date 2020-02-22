@@ -1,8 +1,2 @@
-7
-beat
-vet
-beet
-bed
-vet
-bet
-beet
+2
+1 4

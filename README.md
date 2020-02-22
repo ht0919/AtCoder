@@ -5,13 +5,11 @@
 - OS：Windows/macOS/Linux
 - 言語：C++
 
-
 ## 操作手順
 
 - ビルド：g++ file.cpp
 - 実行(Windows)：a.exe < test[1|2|3|4].txt
 - 実行(macOS/Linux)：./a.out < test[1|2|3|4].txt
-
 
 ## AtCoder Beginners Contest
 
@@ -85,7 +83,7 @@
 - ABC153 x 3本
 - ABC154 x 4本
 - ABC155 x 3本
-
+- ABC156 x 3本
 
 ## AtCoder Grand Contest
 
@@ -101,7 +99,6 @@
 - AGC036 x 1本
 - AGC037 x 1本
 - AGC039 x 1本
-
 
 ## Other
 
