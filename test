@@ -1,0 +1,8 @@
+#!/bin/sh
+if [ -e a.out ]; then
+  for file in `\find . -name "test?.txt" | sort`; do
+    ./a.out < $file
+  done
+else
+  echo "a.out is not found."
+fi
