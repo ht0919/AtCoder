@@ -1,8 +1,9 @@
-#!/bin/sh
+#!/bin/bash
 S1="ABC"
-S2="157"
+S2="158"
 S3=$S1$S2
-if [ -e $S3?.cpp ]; then
+S4=${S3}A.cpp
+if [[ -e $S4 ]]; then
     mkdir -p $S1/$S2
     mv $S3?.cpp ./$S1/$S2
     rm a.out

@@ -10,8 +10,8 @@ try() {
 }
 
 if [ -e a.out ]; then
-  try test1 702
-  try test2 -1
+  try test1 25
+  try test2 100
   try test3 -1
   echo OK
 else
