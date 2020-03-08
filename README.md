@@ -108,3 +108,4 @@
 - みんなのプロコン 2019 (MP2019 x 3本)
 - サンプルプログラム (Sample x 3本)
 - Tenka1 Programmer Beginner Contest 2019 (TPBC1 x 3本)
+- 日立製作所 社会システム事業部 プログラミングコンテスト2020 (HI2020 x 2本)
