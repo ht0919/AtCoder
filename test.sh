@@ -10,16 +10,11 @@ try() {
 }
 
 if [ -e a.out ]; then
-  try test1 "Yes
-1
-2
-2"
-  try test2 "Yes
-6
-5
-5
-1
-1"
+  try test1 "20
+19
+26
+3821859835
+23441258666"
   echo OK
 else
   echo "a.out not found."
