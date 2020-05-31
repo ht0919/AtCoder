@@ -96,6 +96,7 @@
 - ABC166 x 4本
 - ABC167 x 4本
 - ABC168 x 4本
+- ABC169 x 4本
 
 ## AtCoder Grand Contest
 
