@@ -10,20 +10,9 @@ try() {
 }
 
 if [ -e a.out ]; then
-  try test1 "0
+  try test1 "1
 0
-2
-3"
-  try test2 "0
-0
-0
-0
-0
-6
-6
-6
-8
-8"
+-1"
   echo OK
 else
   echo "a.out not found."

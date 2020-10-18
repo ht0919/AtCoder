@@ -124,6 +124,7 @@
 - AGC039 x 1本
 - AGC043 x 1本
 - AGC044 x 1本
+- AGC048 x 1本
 
 ## Other
 
