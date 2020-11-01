@@ -1,4 +1,5 @@
-3
-atcodeer
-codeforces
-aaa
+4
+0 1
+0 2
+0 3
+1 1

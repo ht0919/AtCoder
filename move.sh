@@ -1,6 +1,6 @@
 #!/bin/bash
-S1="AGC"
-S2="048"
+S1="ABC"
+S2="181"
 S3=$S1$S2
 S4=${S3}A.cpp
 if [[ -e $S4 ]]; then
