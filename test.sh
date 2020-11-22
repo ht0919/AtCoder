@@ -11,7 +11,9 @@ try() {
 
 if [ -e a.out ]; then
   try test1 2
-  try test2 24
+  try test2 2
+  try test3 3
+  try test4 0
   echo OK
 else
   echo "a.out not found."
