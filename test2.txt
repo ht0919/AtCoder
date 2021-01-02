@@ -1,1 +1,11 @@
-100000
+10
+red
+red
+red
+!orange
+yellow
+!blue
+cyan
+!green
+brown
+!gray
