@@ -10,9 +10,8 @@ try() {
 }
 
 if [ -e a.out ]; then
-  try test1 2
-  try test2 1
-  try test3 2
+  try test1 20
+  try test2 200
   echo OK
 else
   echo "a.out not found."

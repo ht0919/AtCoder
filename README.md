@@ -114,6 +114,7 @@
 - ABC186 x 3本
 - ABC187 x 3本
 - ABC188 x 3本
+- ABC189 x 3本
 
 ## AtCoder Grand Contest
 
